@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mrlutavo. I'm from Venezuela, currently living in Argentina. I'm an enginner in instrumentation and process control.
+- 👀 I’m interested in learning how to code properly. I've been going in and out of programming in different languages (C++, JS, C#)
+- 🌱 I’m currently learning C++ since it was the first programming language I practiced during university and PLC programming.
+- 💞️ I’m looking to collaborate on any C++ project that can help me become a better programmer!
